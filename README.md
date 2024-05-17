@@ -2,6 +2,8 @@
 
 Welcome to the repository for our website! BookMyStay is aimed at building an engaging and user-friendly website for our hotel using HTML, CSS, and JavaScript DOM. The goal is to showcase our hotel's offerings, provide information to potential guests, and offer an easy-to-use booking system.
 
+[Live Link](https://book-my-stay.netlify.app/) 
+
 ## Features
 
 Our hotel offers a range of features and amenities to ensure you have a comfortable and memorable stay:
@@ -25,44 +27,8 @@ Our hotel offers a range of features and amenities to ensure you have a comforta
 ➜ Concierge Services: Our dedicated concierge team is available to assist you with any inquiries, reservations, or local recommendations.
 
 ## Screenshots
-![Screenshot (20)](https://github.com/Antaryami-Sahoo83/BookMyStay/assets/113410862/dafd3b49-cd93-4168-838c-806bfdb78367)
-![Screenshot (21)](https://github.com/Antaryami-Sahoo83/BookMyStay/assets/113410862/59667280-0674-425f-8999-fb9ef5d45d4f)
-![Screenshot (22)](https://github.com/Antaryami-Sahoo83/BookMyStay/assets/113410862/88813976-4f71-4d49-8d01-b49da050819f)
-![Screenshot (23)](https://github.com/Antaryami-Sahoo83/BookMyStay/assets/113410862/a421dc21-ba40-4470-9337-946798fd80f9)
-![Screenshot (24)](https://github.com/Antaryami-Sahoo83/BookMyStay/assets/113410862/b28a70a5-a283-4110-adc9-554832b5c59b)
-![Screenshot (25)](https://github.com/Antaryami-Sahoo83/BookMyStay/assets/113410862/a16a81b2-2a3b-44ab-aa45-c8054e5112b5)
-![Screenshot (26)](https://github.com/Antaryami-Sahoo83/BookMyStay/assets/113410862/b2f631df-4752-4912-980e-9b906642c7c1)
-![Screenshot (27)](https://github.com/Antaryami-Sahoo83/BookMyStay/assets/113410862/76a874ca-c0e6-4c68-829f-36f4f6bbd092)
-![Screenshot (28)](https://github.com/Antaryami-Sahoo83/BookMyStay/assets/113410862/248c7565-c1de-49b8-8051-77c8a96674aa)
-![Screenshot (29)](https://github.com/Antaryami-Sahoo83/BookMyStay/assets/113410862/e88b0f06-8042-4d57-b749-bdcdaa82914a)
-![Screenshot (30)](https://github.com/Antaryami-Sahoo83/BookMyStay/assets/113410862/a7b88461-915e-4ef3-b509-e8b154c75303)
-![Screenshot (31)](https://github.com/Antaryami-Sahoo83/BookMyStay/assets/113410862/9f7502a5-61df-430b-a31d-4c759f0a57fd)
-![Screenshot (32)](https://github.com/Antaryami-Sahoo83/BookMyStay/assets/113410862/2e4e3536-ba1b-48e5-8c6d-b93629158b1f)
-![Screenshot (33)](https://github.com/Antaryami-Sahoo83/BookMyStay/assets/113410862/9c2d18ec-0784-47d3-b932-008ac0afb5ff)
-![Screenshot (34)](https://github.com/Antaryami-Sahoo83/BookMyStay/assets/113410862/2a1579d8-29f7-4883-8917-db626829f434)
-![Screenshot (35)](https://github.com/Antaryami-Sahoo83/BookMyStay/assets/113410862/6cddbfd0-5de1-476a-bf11-c3398567c8a0)
-![Screenshot (38)](https://github.com/Antaryami-Sahoo83/BookMyStay/assets/113410862/aad8e26a-ce04-4480-8c46-008f449b9f84)
 
-<<<<<<< HEAD
-![Screenshot (20)](https://github.com/Antaryami-Sahoo83/BookMyStay/assets/113410862/dafd3b49-cd93-4168-838c-806bfdb78367)
-![Screenshot (21)](https://github.com/Antaryami-Sahoo83/BookMyStay/assets/113410862/59667280-0674-425f-8999-fb9ef5d45d4f)
-![Screenshot (22)](https://github.com/Antaryami-Sahoo83/BookMyStay/assets/113410862/88813976-4f71-4d49-8d01-b49da050819f)
-![Screenshot (23)](https://github.com/Antaryami-Sahoo83/BookMyStay/assets/113410862/a421dc21-ba40-4470-9337-946798fd80f9)
-![Screenshot (24)](https://github.com/Antaryami-Sahoo83/BookMyStay/assets/113410862/b28a70a5-a283-4110-adc9-554832b5c59b)
-![Screenshot (25)](https://github.com/Antaryami-Sahoo83/BookMyStay/assets/113410862/a16a81b2-2a3b-44ab-aa45-c8054e5112b5)
-![Screenshot (26)](https://github.com/Antaryami-Sahoo83/BookMyStay/assets/113410862/b2f631df-4752-4912-980e-9b906642c7c1)
-![Screenshot (27)](https://github.com/Antaryami-Sahoo83/BookMyStay/assets/113410862/76a874ca-c0e6-4c68-829f-36f4f6bbd092)
-![Screenshot (28)](https://github.com/Antaryami-Sahoo83/BookMyStay/assets/113410862/248c7565-c1de-49b8-8051-77c8a96674aa)
-![Screenshot (29)](https://github.com/Antaryami-Sahoo83/BookMyStay/assets/113410862/e88b0f06-8042-4d57-b749-bdcdaa82914a)
-![Screenshot (30)](https://github.com/Antaryami-Sahoo83/BookMyStay/assets/113410862/a7b88461-915e-4ef3-b509-e8b154c75303)
-![Screenshot (31)](https://github.com/Antaryami-Sahoo83/BookMyStay/assets/113410862/9f7502a5-61df-430b-a31d-4c759f0a57fd)
-![Screenshot (32)](https://github.com/Antaryami-Sahoo83/BookMyStay/assets/113410862/2e4e3536-ba1b-48e5-8c6d-b93629158b1f)
-![Screenshot (33)](https://github.com/Antaryami-Sahoo83/BookMyStay/assets/113410862/9c2d18ec-0784-47d3-b932-008ac0afb5ff)
-![Screenshot (34)](https://github.com/Antaryami-Sahoo83/BookMyStay/assets/113410862/2a1579d8-29f7-4883-8917-db626829f434)
-![Screenshot (35)](https://github.com/Antaryami-Sahoo83/BookMyStay/assets/113410862/6cddbfd0-5de1-476a-bf11-c3398567c8a0)
-![Screenshot (38)](https://github.com/Antaryami-Sahoo83/BookMyStay/assets/113410862/aad8e26a-ce04-4480-8c46-008f449b9f84)
-=======
->>>>>>> 6f861dafa1ce91f234230d32ef6479c7e47db4bc
+![Alt text](<Screenshot (20).png>) ![Alt text](<Screenshot (21).png>) ![Alt text](<Screenshot (22).png>) ![Alt text](<Screenshot (23).png>) ![Alt text](<Screenshot (24).png>) ![Alt text](<Screenshot (25).png>) ![Alt text](<Screenshot (26).png>) ![Alt text](<Screenshot (27).png>) ![Alt text](<Screenshot (28).png>) ![Alt text](<Screenshot (30).png>) ![Alt text](<Screenshot (31).png>) ![Alt text](<Screenshot (32).png>) ![Alt text](<Screenshot (33).png>) ![Alt text](<Screenshot (34).png>) ![Alt text](<Screenshot (35).png>) ![Alt text](<Screenshot (36).png>) ![Alt text](<Screenshot (37).png>) ![Alt text](<Screenshot (38).png>)
 
 ## FAQ
 
